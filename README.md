@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning and upgrading my skills in: **Python, HTML, CSS, Django**
 
+- 📖 I'm currently reading: **Learning Python: Powerful Object-Oriented Programming, 5th Edition by Mark Lutz**. It's helping me deepen my understanding of Python, especially object-oriented programming.
+
 - ⚡ Fun fact: **I started learning Python just to gain some basic technical knowledge, but now I’m hooked and can’t get enough of programming!**
 
 <h3 align="left">Languages and Tools:</h3>
