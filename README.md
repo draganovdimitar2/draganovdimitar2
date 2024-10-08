@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact: **I started learning Python just to gain some basic technical knowledge, but now I’m hooked and can’t get enough of programming!**
 
+- 🔗 Check out my Codewars profile: [Codewars Profile](https://www.codewars.com/users/draganovdimitar2)
+
+  ![Codewars Badge](https://www.codewars.com/users/draganovdimitar2/badges/large)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
