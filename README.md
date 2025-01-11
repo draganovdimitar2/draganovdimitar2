@@ -1,44 +1,65 @@
 <h1 align="center">👋 Hello, World! I'm Dimitar!</h1>
-<h3 align="center">Not a Software Engineer 👶|Python Enthusiast 🐍| Lifelong Learner 📚</h3>
+<h3 align="center">Not a Software Engineer 👶 | Python Enthusiast 🐍 | Lifelong Learner 📚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=draganovdimitar2&label=Profile%20views&color=0e75b6&style=flat" alt="draganovdimitar2" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2" alt="draganovdimitar2" /></a> </p>
+- 🌱 **Currently Learning and Improving My Skills In::**  
+  **FastAPI**, building RESTful APIs, and integrating them with Python and relational database systems like PostgreSQL and SQLite.
 
-- 🌱 I’m currently learning and improving my skills in: **Python, Django, and relational database systems like PostgreSQL and SQLite.**
+- 📖 **Currently Reading:**  
+  *Learning Python: Powerful Object-Oriented Programming (5th Edition)* by Mark Lutz.  
+  Deepening my understanding of Python, especially object-oriented programming.
 
-- 📖 I'm currently reading: **Learning Python: Powerful Object-Oriented Programming, 5th Edition by Mark Lutz**. It's helping me deepen my understanding of Python, especially object-oriented programming.
+- ⚡ **Fun Fact:**  
+  I started learning Python just to gain some basic technical knowledge, but now I’m hooked and can’t get enough of programming!
 
-- ⚡ Fun fact: **I started learning Python just to gain some basic technical knowledge, but now I’m hooked and can’t get enough of programming!**
-
-- 🔗 Check out my Codewars profile: [Codewars Profile](https://www.codewars.com/users/draganovdimitar2)
-
+- 🔗 **Check out my Codewars profile:** [Codewars Profile](https://www.codewars.com/users/draganovdimitar2)  
+  
   ![Codewars Badge](https://www.codewars.com/users/draganovdimitar2/badges/large)
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## Languages and Tools
+
+<h3 align="left">🛠️ Technologies I Use:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
 </p>
 
+---
 
+## My Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&show_icons=true&locale=en&layout=compact" alt="draganovdimitar2" /></p>
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; gap: 40px;">
+  <div style="text-align: left;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2&title=Commits,Repositories&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
+  <div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=draganovdimitar2&show_icons=true&locale=en" alt="draganovdimitar2" /></p>
+---
+
+Feel free to connect with me on [GitHub](https://github.com/draganovdimitar2) or [LinkedIn](https://www.linkedin.com/in/draganovdimitar). I’m always open to collaborating on interesting projects and learning opportunities!
+
+---
