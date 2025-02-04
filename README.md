@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hello, World! I'm Dimitar!</h1>
 <h3 align="center">Not a Software Engineer 👶 | Python Enthusiast 🐍 | Lifelong Learner 📚</h3>
 
-## About Me
+## 📌 About Me
 
-- 🌱 **Currently Learning and Improving My Skills In::**  
-  **FastAPI**, building RESTful APIs, and integrating them with Python and relational database systems like PostgreSQL and SQLite.
+- 🌱 **Currently Mastering**  
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
+  ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F00?logo=rest&logoColor=white)
 
-- 📖 **Currently Reading:**  
-  *Learning Python: Powerful Object-Oriented Programming (5th Edition)* by Mark Lutz.  
-  Deepening my understanding of Python, especially object-oriented programming.
-
-- ⚡ **Fun Fact:**  
-  I started learning Python just to gain some basic technical knowledge, but now I’m hooked and can’t get enough of programming!
+- 📚 **Learning Resources**  
+  🔹 *"Learning Python: Powerful Object-Oriented Programming"* by Mark Lutz  
+  🔹 Building personal projects with API-first design  
+  🔹 Solving daily challenges on Codewars 
 
 - 🔗 **Check out my Codewars profile:** [Codewars Profile](https://www.codewars.com/users/draganovdimitar2)  
   
@@ -19,47 +19,58 @@
 
 ---
 
-## Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="40"/> 
-  </a> 
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*C_u3RtbZnYzRI10IUWbPfg.png" alt="Swagger" width="100" height="40"/> 
+### Core Competencies
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+  </a>
 </p>
 
 
-## GitHub Stats
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat" alt="Swagger">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
+</p>
 
-<div style="display: flex; justify-content: flex-start; align-items: center; width: 100%; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2&title=Commits&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
+---
+## 📈 Coding Activity
+
+<div align="left">
+  <div style="display: flex; justify-content: left; align-items: center; gap: 50px; width: 100%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2&theme=onedark&no-bg=true&no-frame=true&title=Commits" alt="GitHub Commits Trophy" style="max-width: 300px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 300px; height: auto;">
+  </div>
 </div>
 
----
-
-Feel free to connect with me on [GitHub](https://github.com/draganovdimitar2) or [LinkedIn](https://www.linkedin.com/in/draganovdimitar). I’m always open to collaborating on interesting projects and learning opportunities!
 
 ---
+
+## 🌐 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/draganovdimitar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/draganovdimitar2">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="https://www.codewars.com/users/draganovdimitar2">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars">
+  </a>
+</p>
+
+<div align="left">
+  <i>🚀 Always excited to collaborate on Python projects or discuss API design!</i>
+</div>
