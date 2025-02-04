@@ -21,7 +21,6 @@
 
 ## Languages and Tools
 
-<h3 align="left">🛠️ Technologies I Use:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -50,19 +49,13 @@
 </p>
 
 
----
+## GitHub Stats
 
-## My Achievements
-
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; width: 100%; gap: 40px;">
-  <div style="text-align: left;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2&title=Commits,Repositories&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
-    </a>
-  </div>
-  <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </div>
+<div style="display: flex; justify-content: flex-start; align-items: center; width: 100%; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=draganovdimitar2&title=Commits&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=draganovdimitar2&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
